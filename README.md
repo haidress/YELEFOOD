@@ -32,3 +32,7 @@ Ouvrir [http://localhost:3000](http://localhost:3000)
 ## Données
 
 Stockées dans `data/store.json`. Images uploadées dans `public/uploads/`.
+
+## Déploiement
+
+Site en production : [https://yelefood.vercel.app](https://yelefood.vercel.app)
